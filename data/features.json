@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-paint-bucket",
+    "title": "Web Yazılım",
+    "content": "Hayalinizde ki tasarımı kalıp gibi koda dökebiliriz."
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-phone",
+    "title": "Web & Mobile Uyumu",
+    "content": "Projelerinizde responsive odaklı çalışıp, kullanıcı deneyimine uygun kodlarız."
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-display1",
+    "title": "Özgün Kod Yapısı",
+    "content": "Yapacağımız projelerde özgün kod yapısı ile son derece performanslı uygulamalar geliştiriyoruz."
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-diskette",
+    "title": "Projelerde Dökümantasyon",
+    "content": "Projeleri yapıp bırakmıyor, aynı zamanda projeyi anlatan dökümantasyon desteği veriyoruz."
+  }
+]
